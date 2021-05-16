@@ -1,0 +1,28 @@
+{
+    "name": "amin_portfolio",
+    "short_name": "portfolio",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Amin Portfolio.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/favicon16x16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/favicon32x32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/favicon96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ]
+}
